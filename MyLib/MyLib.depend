@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636390087 source:d:\c-project\mylib\mylib.c
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1636390281 source:d:\c-project\mylib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"MyLib.h"
+
+1636390087 d:\c-project\mylib\mylib.h
+	<stdio.h>
+	<stdlib.h>
+
